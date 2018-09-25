@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Blake Hadaway
+ * September 25th, 2018
+ * This is a low grade verson of the math game "Game of Life".
  */
 
 package gameoflife;
